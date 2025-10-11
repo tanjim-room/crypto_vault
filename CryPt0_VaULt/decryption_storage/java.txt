@@ -1,0 +1,3 @@
+
+Protect your investment—and more
+Java SE subscribers get support for JDK 17, receive updates until at least October 2029, are entitled to GraalVM, Java Management Service, and bundled patch releases (BPRs) with fixes not yet available to nonsubscribers, and more.
